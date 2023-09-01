@@ -39,6 +39,8 @@ int main(){
     PosX = 150.f;
     PosY = -5.f;
     
+    cout << "testing for github \n";
+
     //creates the window within the code and specifes the size and the name
     RenderWindow window(VideoMode(400, 400), "Falling Man");
     
